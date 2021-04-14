@@ -4,7 +4,7 @@ Il programma stampa la somma di tutti i numeri inseriti.
 Esegui questo programma in due versioni, con il for e con il while. */
 
 
-/* var i = 1;
+var i = 1;
 var somma = 0; 
 
 while(i < 6){
@@ -24,5 +24,4 @@ for (i=1; i<6; i++){
   console.log(n);
 }
 
-console.log(somma); */
-
+console.log(somma);
